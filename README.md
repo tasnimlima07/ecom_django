@@ -2,6 +2,9 @@
 
 This is a simple e-commerce website built using Django, a high-level Python web framework. The project aims to provide a basic foundation for building an online store, with features such as user authentication, product management, cart functionality, and order processing.
 
+![Example Image](img/ecom.png)
+
+
 ## Features
 
 - **User Authentication**: Allow users to sign up, log in, and log out securely.

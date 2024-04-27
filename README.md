@@ -8,10 +8,9 @@ Product Catalog: Display products with details such as name, price, and descript
 Shopping Cart: Enable users to add products to their cart for future purchase.
 Order Processing: Allow users to place orders and track their order history.
 Responsive Design: Ensure the website is accessible and usable across different devices.
-##Installation
+## Installation
 1.Clone the repository:
-bash
-Copy code
+```bash
 git clone https://github.com/tasnimlima07/ecom_django.git
 Navigate into the project directory:
 bash

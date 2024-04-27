@@ -12,14 +12,16 @@ Responsive Design: Ensure the website is accessible and usable across different 
 1.Clone the repository:
 ```bash
 git clone https://github.com/tasnimlima07/ecom_django.git
+
+
 Navigate into the project directory:
-bash
-Copy code
+```bash
 cd ecom_django
+
 Install dependencies:
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+
 Apply database migrations:
 bash
 Copy code

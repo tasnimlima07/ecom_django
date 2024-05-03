@@ -6,13 +6,13 @@ This is a simple e-commerce website built using Django, a high-level Python web 
 
 
 ## Features
-
+- **Multiple Vendors**: The platform allows multiple vendors to sign up and create their own storefronts to sell products. Each vendor has their own dashboard to manage their products, orders, and store settings.
+- **Product Listings**: Vendors can add, edit, and delete their products from their dashboard. They can specify product details such as title, description, price, quantity, and images.
+- **Analytics and Reporting**: endors have access to sales analytics and reports within their dashboard. They can track sales performance, monitor inventory levels, and identify trends to optimize their business strategies.
 - **User Authentication**: Allow users to sign up, log in, and log out securely.
 - **Product Management**: Add, edit, and delete products from the admin dashboard.
 - **Product Catalog**: Display products with details such as name, price, and description.
-- **Shopping Cart**: Enable users to add products to their cart for future purchase.
-- **Order Processing**: Allow users to place orders and track their order history.
-- **Responsive Design**: Ensure the website is accessible and usable across different devices.
+- **Contact Seller**: Enable users to message the seller etc
 
 ## Installation
 
